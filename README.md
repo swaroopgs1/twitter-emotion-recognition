@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikicc/twitter-emotion-recognition/master?filepath=demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/swaroopgs1/twitter-emotion-recognition/blob/master/demo.ipynb)
 
 # Twitter Emotion Recognition
 
